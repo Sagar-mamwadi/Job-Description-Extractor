@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Job Description Keyword Extractor",
+    "version": "1.0",
+    "description": "Extracts keywords from job descriptions.",
+    "permissions": [],
+    "action": {
+      "default_popup": "index.html"
+    }
+  }
+  
